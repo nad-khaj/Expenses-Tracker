@@ -1,0 +1,11 @@
+{
+  "name": "session03",
+  "version": "1.0.0",
+  "description": "expensses tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadereh Khajehpour",
+  "license": "MIT"
+}
